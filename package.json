@@ -1,0 +1,27 @@
+{
+  "name": "restful_practice",
+  "version": "1.0.0",
+  "description": "restful practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karote00/nodejs_restful_practice.git"
+  },
+  "keywords": [
+    "restful"
+  ],
+  "author": "Asa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karote00/nodejs_restful_practice/issues"
+  },
+  "homepage": "https://github.com/karote00/nodejs_restful_practice#readme",
+  "dependencies": {
+      "express": "~4.0.0",
+      "mongoose": "~3.6.13",
+      "body-parser": "~1.0.1"
+  }
+}
